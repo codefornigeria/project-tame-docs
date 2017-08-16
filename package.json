@@ -1,0 +1,27 @@
+{
+  "name": "tame-api-docs",
+  "version": "1.0.0",
+  "description": "Api Documentation for TAME project",
+  "main": "server.js",
+  "dependencies": {
+    "node-static": "^0.7.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo hello world",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codefornigeria/project-tame-docs.git"
+  },
+  "keywords": [
+    "TAME"
+  ],
+  "author": "Inioluwa Adebanjo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codefornigeria/project-tame-docs/issues"
+  },
+  "homepage": "https://github.com/codefornigeria/project-tame-docs#readme"
+}
